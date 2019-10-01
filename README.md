@@ -28,7 +28,7 @@ Follow the instructions in order:
     `git clone https://github.com/<your-username>/hackiiitv18-submissions.git`
 
 3. Change Directory to `hackiiitv18-submissions`, using
-    `cd hackiiitv18-submissions`
+    `cd hackiiitv18-submissions` (it changes directory)
 
 4. Set remote to original repository using
     `git remote add ups https://github.com/iiitv/hackiiitv18-submissions.git`
@@ -45,7 +45,7 @@ Follow the instructions in order:
     `git commit -m "Add team#x"`
 
 9. Push the changes using,
-    `git push`
+    `git push` or `git push origin master` (or the branch name of your choice)
 
 10. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you too open a Pull request, just click on it and you are done.
 
